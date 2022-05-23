@@ -1,5 +1,5 @@
 # OpenCV Template Matching
-- Projeto desenvolvido com OpenCV biblioteca do python.
+- Projeto desenvolvido com OpenCV, aprendendo um pouco mais sobre a biblioteca do python.
 
 
 ## 📌 ***Principais Objetivos***
